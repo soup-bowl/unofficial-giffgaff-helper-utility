@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--This is the XML document that stores all the links used in the program. 
+If you change any of these the program will use that link when it makes a
+request. If you damage or corrupt your XML document head back to the homepage
+and you can grab another copy.-->
+<urldatabase>
+  <links>
+    <xmlversion>1.0</xmlversion>
+    <clientmaxversion>1.0</clientmaxversion>
+    <clientminversion>0.8</clientminversion>
+    <GiffgaffDash>http://giffgaff.com/dashboard</GiffgaffDash>
+    <settingup>http://giffgaff.com/first-steps</settingup>
+    <purchasegoodybag>http://giffgaff.com/buy</purchasegoodybag>
+    <voucherredeem>http://giffgaff.com/buy/redeem</voucherredeem>
+    <topupanother>http://giffgaff.com/topup/altruistic</topupanother>
+    <unlockapedia>http://giffgaff.com/unlock</unlockapedia>
+    <signalstatus>http://community.giffgaff.com/t5/Service-Updates/Service-Checker-and-Planned-Mast-Maintenance/m-p/4216841</signalstatus>
+    <numberporting>http://community.giffgaff.com/t5/Getting-started/How-do-I-keep-my-mobile-number/ta-p/3521127</numberporting>
+    <askanagent>http://giffgaff.com/support/ask</askanagent>
+    <askeducator>http://community.giffgaff.com/t5/giffgaff-Top-Tips/Need-to-Contact-an-Educator-Handy-Links/m-p/1199269</askeducator>
+    <lostpassword>http://giffgaff.com/support/lost-password</lostpassword>
+      <iphone3G>http://community.giffgaff.com/t5/giffgaff-Top-Tips/How-to-giffgaff-an-iPhone/m-p/1807#M21</iphone3G>
+      <iphone4G>http://community.giffgaff.com/t5/giffgaff-Top-Tips/giffgaffer-s-guide-to-iPhone-iOS/td-p/52685</iphone4G>
+      <ipad>http://community.giffgaff.com/t5/giffgaff-Top-Tips/giffgaffer-s-guide-to-iPad/td-p/2519167</ipad>
+      <android>http://community.giffgaff.com/t5/giffgaff-Top-Tips/giffgaffer-s-guide-to-Android/td-p/97392</android>
+      <ICS>http://community.giffgaff.com/t5/giffgaff-Top-Tips/Android-4-0-4-1-amp-4-2-Jelly-Bean-amp-ICS-Internet-and-MMS/td-p/6352504</ICS>
+      <WP6>http://community.giffgaff.com/t5/giffgaff-Top-Tips/giffgaffer-s-guide-to-Windows-Mobile-6-1-updated/td-p/126645</WP6>
+      <WP7>http://community.giffgaff.com/t5/giffgaff-Top-Tips/giffgaffer-s-guide-to-Windows-Phone-7-5/td-p/2043139</WP7>
+      <WP8></WP8>
+      <blackberry>http://community.giffgaff.com/t5/giffgaff-Top-Tips/giffgaffer-s-guide-to-Blackberry/td-p/92334</blackberry>
+      <APN>http://community.giffgaff.com/t5/giffgaff-Top-Tips/Definitive-APN-Settings-list/m-p/1279#M8</APN>
+    <CustomIssue1></CustomIssue1>
+    <CustomIssue2></CustomIssue2>
+    <CustomIssue3></CustomIssue3>
+    <serviceboard>http://community.giffgaff.com/t5/Service-Updates/bd-p/Notice_board</serviceboard>
+    <checkcreditno>*100*5#</checkcreditno>
+    <checkgoodybagno>*100*7#</checkgoodybagno>
+    <topupno>43430</topupno>
+    <voicemailno>443</voicemailno>
+    <VMonno>1616</VMonno>
+    <VMoffno>1626</VMoffno>
+    <settings>2020</settings>
+    <disableadultfilter>http://giffgaff.com/settings</disableadultfilter>
+    <lostSIM>http://giffgaff.com/support/lost</lostSIM>
+    <PAC>http://giffgaff.com/help/pac-code-request</PAC>
+    <PUK>http://giffgaff.com/support/puk</PUK>
+    <tarrif>http://giffgaff.com/index/pricing</tarrif>
+    <simswap>http://community.giffgaff.com/t5/Learn-giffgaff-Top-Tips/How-to-use-SIM-Swap/td-p/6885194</simswap>
+    <mythbust>http://community.giffgaff.com/t5/Help-Support/Urban-Myths-The-truth-is-out-there-19-07-13/td-p/7389128</mythbust>
+  </links>
+</urldatabase>

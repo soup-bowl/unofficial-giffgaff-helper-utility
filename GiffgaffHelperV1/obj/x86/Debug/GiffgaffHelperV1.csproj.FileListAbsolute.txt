@@ -1,0 +1,10 @@
+C:\Users\Spirit\documents\visual studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\bin\Debug\GiffgaffHelperV1.exe
+C:\Users\Spirit\documents\visual studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\bin\Debug\GiffgaffHelperV1.pdb
+C:\Users\Spirit\documents\visual studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Spirit\documents\visual studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Debug\GiffgaffHelperV1.FrmMain.resources
+C:\Users\Spirit\documents\visual studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Debug\GiffgaffHelperV1.Properties.Resources.resources
+C:\Users\Spirit\documents\visual studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Spirit\documents\visual studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Spirit\documents\visual studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Debug\GiffgaffHelperV1.exe
+C:\Users\Spirit\documents\visual studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Debug\GiffgaffHelperV1.pdb
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Debug\GiffgaffHelperV1.frmAbout.resources

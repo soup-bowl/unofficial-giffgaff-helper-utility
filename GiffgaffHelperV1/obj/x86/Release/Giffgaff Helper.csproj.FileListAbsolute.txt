@@ -1,0 +1,17 @@
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\bin\Release\urlstore.xml
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\bin\Release\Unofficial Giffgaff Helper.exe.manifest
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\bin\Release\Unofficial Giffgaff Helper.application
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\bin\Release\Unofficial Giffgaff Helper.exe
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\bin\Release\Unofficial Giffgaff Helper.pdb
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\GiffgaffHelperV1.frmAbout.resources
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\GiffgaffHelperV1.frmHelp.resources
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\GiffgaffHelperV1.FrmMain.resources
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\GiffgaffHelperV1.frmNameDialog.resources
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\GiffgaffHelperV1.Properties.Resources.resources
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\Unofficial Giffgaff Helper.exe.manifest
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\Unofficial Giffgaff Helper.application
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\Unofficial Giffgaff Helper.exe
+C:\Users\Spirit\Documents\Visual Studio 2010\Projects\GiffgaffHelperV1\GiffgaffHelperV1\obj\x86\Release\Unofficial Giffgaff Helper.pdb
