@@ -1,5 +1,7 @@
 # Unofficial Giffgaff Utility
 
+![original.png](https://bitbucket.org/repo/XMy5nB/images/1770993229-original.png)
+
 In 2012 I began to dabble in programming, which as a trainee technical support guy I had never touched before. My first outside-college project was the Unofficial giffgaff Helper. As I was an active helper on the giffgaff forums to raise money for fees I found that some obvious issues had a link that provided the exact information needed to fix the problem. However, this meant consulting a text document filled with links. I decided I could build a program that could do this for me, and the Unofficial giffgaff Helper was born.
 
 The tool is very basic, all it did was copy a specific link to the clipboard. As the tool progressed it relied on a document that contained the links it used, and also provided a statusbar icon to provide quick links. Eventually, the tool even expanded to provide help to regular users as well as just helpers.
@@ -14,10 +16,10 @@ Please ignore any jests or stupid comments, I was 17 when I first wrote the appl
 
 ## Technical Details
 
-Project: C# WinForms.
-Architecture: 32 bit Application. 
-Environment: Visual Studio 2010 C# Express.
-.NET Framework: 4.0 (to maintain XP support, which was still alive at the time).
-Compiling: Unknown (no Visual Studio installed, will change when installed).
+**Project:** C# WinForms.
+**Architecture:** 32 bit Application. 
+**Environment:** Visual Studio 2010 C# Express.
+**.NET Framework:** 4.0 (to maintain XP support, which was still alive at the time).
+**Compiling:** Unknown (no Visual Studio installed, will change when installed).
 
 Between 1 and 10 on the good practices scale, this application is at a 2. Intermediate developers prepare for nausea.
