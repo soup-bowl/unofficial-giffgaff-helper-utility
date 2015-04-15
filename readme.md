@@ -1,4 +1,5 @@
 # Unofficial Giffgaff Utility
+The [original forum post](http://community.giffgaff.com/t5/Contribute/Unofficial-giffgaff-Helper/td-p/6189888) on giffgaff ([Archived](http://web.archive.org/web/20150415195022/http://community.giffgaff.com/t5/Contribute/Unofficial-giffgaff-Helper/td-p/6189888)).
 
 ![original.png](https://bitbucket.org/repo/XMy5nB/images/1770993229-original.png)
 
@@ -15,7 +16,6 @@ I completely withdraw all rights to the application, and anything remaining in t
 Please ignore any jests or stupid comments, I was 17 when I first wrote the application.
 
 ## Technical Details
-* 
 * **Project:** C# WinForms.
 * **Architecture:** 32 bit Application. 
 * **Environment:** Visual Studio 2010 C# Express.
