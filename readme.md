@@ -15,11 +15,11 @@ I completely withdraw all rights to the application, and anything remaining in t
 Please ignore any jests or stupid comments, I was 17 when I first wrote the application.
 
 ## Technical Details
-
-**Project:** C# WinForms.
-**Architecture:** 32 bit Application. 
-**Environment:** Visual Studio 2010 C# Express.
-**.NET Framework:** 4.0 (to maintain XP support, which was still alive at the time).
-**Compiling:** Unknown (no Visual Studio installed, will change when installed).
+* 
+* **Project:** C# WinForms.
+* **Architecture:** 32 bit Application. 
+* **Environment:** Visual Studio 2010 C# Express.
+* **.NET Framework:** 4.0 (to maintain XP support, which was still alive at the time).
+* **Compiling:** Unknown (no Visual Studio installed, will change when installed).
 
 Between 1 and 10 on the good practices scale, this application is at a 2. Intermediate developers prepare for nausea.
