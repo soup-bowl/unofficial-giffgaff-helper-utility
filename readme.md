@@ -1,5 +1,5 @@
 # Unofficial Giffgaff Utility
-The [original forum post](http://community.giffgaff.com/t5/Contribute/Unofficial-giffgaff-Helper/td-p/6189888) on giffgaff ( [Archived](http://preview.tinyurl.com/uggh-source) ).
+The original forum thread is no longer available on the GiffGaff community. However, you can [still access the archived version](http://preview.tinyurl.com/uggh-source).
 
 ![original.png](https://bitbucket.org/repo/XMy5nB/images/1770993229-original.png)
 
