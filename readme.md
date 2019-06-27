@@ -1,7 +1,7 @@
 # Unofficial Giffgaff Utility
 The original forum thread is no longer available on the GiffGaff community. However, you can [still access the archived version](http://preview.tinyurl.com/uggh-source).
 
-![original.png](https://bitbucket.org/repo/XMy5nB/images/1770993229-original.png)
+![original.png](https://napa.i.lithium.com/t5/image/serverpage/image-id/46770i21545A529B8CA7C7/image-size/original)
 
 In 2012 I began to dabble in programming, which as a trainee technical support guy I had never touched before. My first outside-college project was the Unofficial giffgaff Helper. As I was an active helper on the giffgaff forums to raise money for fees I found that some obvious issues had a link that provided the exact information needed to fix the problem. However, this meant consulting a text document filled with links. I decided I could build a program that could do this for me, and the Unofficial giffgaff Helper was born.
 
