@@ -1,7 +1,10 @@
 # Unofficial Giffgaff Utility
-The original forum thread is no longer available on the GiffGaff community. However, you can [still access the archived version](http://preview.tinyurl.com/uggh-source).
 
-![original.png](https://napa.i.lithium.com/t5/image/serverpage/image-id/46770i21545A529B8CA7C7/image-size/original)
+![uggh-banner][u-banner]
+
+The original forum thread is no longer available on the GiffGaff community. However, you can [still access the archived version from 2015][u-forumlink].
+
+![uggh-screenshot][u-screenshot]
 
 In 2012 I began to dabble in programming, which as a trainee technical support guy I had never touched before. My first outside-college project was the Unofficial giffgaff Helper. As I was an active helper on the giffgaff forums to raise money for fees I found that some obvious issues had a link that provided the exact information needed to fix the problem. However, this meant consulting a text document filled with links. I decided I could build a program that could do this for me, and the Unofficial giffgaff Helper was born.
 
@@ -23,3 +26,11 @@ Please ignore any jests or stupid comments, I was 17 when I first wrote the appl
 * **Compiling:** Unknown (no Visual Studio installed, will change when installed).
 
 Between 1 and 10 on the good practices scale, this application is at a 2. Intermediate developers prepare for nausea.
+
+![uggh-thinbanner][u-banner-s]
+
+[u-forumlink]:  http://web.archive.org/web/20150415195022/http://community.giffgaff.com/t5/Contribute/Unofficial-giffgaff-Helper/td-p/6189888
+[u-banner]:     https://user-images.githubusercontent.com/11209477/148752427-60445fe8-78c8-4d07-bd91-b20de7258431.png
+[u-screenshot]: https://user-images.githubusercontent.com/11209477/148752406-20f06376-1884-4874-ae97-f4a7d99cee9b.png
+[u-banner-l]:   https://user-images.githubusercontent.com/11209477/148752862-fe62b0cc-57f7-4c11-b2dd-c33c20c24999.png
+[u-banner-s]:   https://user-images.githubusercontent.com/11209477/148752571-c1aedfa7-8679-4b2d-abe4-c6ebc3862e0b.png
